@@ -78,6 +78,6 @@ try:
              print("You are successfully exit from application........")
              break
 except:
-    print("something went wrong , please check out your input !!!!")
+    print("something went wrong!!!, please check out your input !!!!")
 
  
